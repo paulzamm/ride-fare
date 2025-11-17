@@ -1,4 +1,4 @@
-📊 Análisis Comparativo Uber vs Lyft — Data Science Project
+📊 Análisis Comparativo Uber vs Lyft 
 
 
 Este proyecto realiza un análisis exhaustivo del comportamiento de viajes entre Uber y Lyft, utilizando técnicas de Exploratory Data Analysis (EDA), ingeniería de características y visualizaciones estadísticas.
