@@ -62,27 +62,39 @@ Comparación directa:
 Algunos gráficos generados en el proyecto:
 
 Diagrama de dispersión de precio vs milla
-![alt text](image.png)
+![alt text](/graphics/image.png)
+
+
 Explicando que solo el 35% del precio se explica por distancia.
 
 Distribución de viajes por hora entre las dos empresas
-![alt text](image-1.png)
+![alt text](/graphics/image-1.png)
+
+
 Uber domina en todas las horas a Lyft
 
 Viajes por cab_type por categoria de distancia
-![alt text](image-2.png)
+![alt text](/graphics/image-2.png)
 
-![alt text](image-3.png)
+![alt text](/graphics/image-3.png)
+
+
 Uber supera a Lyft en Viajes pero Lyft tiene mas ganancias.
 
 Insight clave: Uber maneja una tarifa estandar mientras Lyft tiene multiplicadores por demanda.
-![alt text](image-4.png)
+
+
+![alt text](/graphics/image-4.png)
 
 Distancia vs Horario de viajes de Lyft cuando su multiplicador es 2 y 3, donde en la madrugada y a distancias de hasta 2 millas se concentran el mayor número de viajes
-![alt text](image-5.png)
+
+
+![alt text](/graphics/image-5.png)
 
 Rutas mas frecuentes
-![alt text](image-6.png)
+
+
+![alt text](/graphics/image-6.png)
 
 Conclusión: Lyft aprovecha el precio dinámico donde convierte pocos viajes de alto valor en más ingresos.
 
